@@ -1,0 +1,25 @@
+[25/Nov/2020:14:11:50] (I): WordPress Instance Info:
+[25/Nov/2020:14:11:50] (I): Home URL : http://localhost/work/wordpress/wordpress
+[25/Nov/2020:14:11:50] (I): Site URL : http://localhost/work/wordpress/wordpress
+[25/Nov/2020:14:11:50] (I): WordPress Version : 5.5.3
+[25/Nov/2020:14:11:50] (I): Onboarding Version : 1.1.0
+[25/Nov/2020:14:11:50] (I): Multisite : No
+[25/Nov/2020:14:11:50] (I): Server Info : Apache/2.4.41 (Ubuntu)
+[25/Nov/2020:14:11:50] (I): PHP Version : 7.2.34-4+ubuntu20.04.1+deb.sury.org+1
+[25/Nov/2020:14:11:50] (I): HTTPS : No
+[25/Nov/2020:14:11:50] (I): PHP Max Execution Time : 18000
+[25/Nov/2020:14:11:50] (I): PHP Max Input Vars : 1000
+[25/Nov/2020:14:11:50] (I): Max Upload Size : 8388608
+[25/Nov/2020:14:11:50] (I): Plugins:
+[25/Nov/2020:14:11:50] (I): [PLUGIN] Orange Block : v1.0 ()
+[25/Nov/2020:14:11:50] (I): [PLUGIN] Akismet Anti-Spam : v4.1.6 (Automattic)
+[25/Nov/2020:14:11:50] (I): [PLUGIN] Block Lab : v1.6.0 (Block Lab)
+[25/Nov/2020:14:11:50] (I): [PLUGIN] Elementor Awesomesauce : v1.0.0 (Ben Marshall)
+[25/Nov/2020:14:11:50] (I): [PLUGIN] Elementor Pro : v2.9.1 (Elementor.com)
+[25/Nov/2020:14:11:50] (I): [PLUGIN] Elementor : v2.9.14 (Elementor.com)
+[25/Nov/2020:14:11:50] (I): [PLUGIN] Genesis Custom Blocks : v1.0.3 (Genesis Custom Blocks)
+[25/Nov/2020:14:11:50] (I): [PLUGIN] Hello Dolly : v1.7.2 (Matt Mullenweg)
+[25/Nov/2020:14:11:50] (I): [PLUGIN] Home Banner Widget : v1.0.0 (Ahmed Khaled)
+[25/Nov/2020:14:11:50] (I): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.5.10 (ThemeIsle)
+[25/Nov/2020:14:11:50] (I): [PLUGIN] Templates Patterns Collection : v1.1.0 (ThemeIsle)
+[25/Nov/2020:14:11:50] (I): [PLUGIN] Orbit Fox Companion : v2.10.0 (Themeisle)

@@ -1,0 +1,72 @@
+Version 2.1.0 / Release: 12-11-2020
+===================
+New: Post List Layouts
+New: Back to Top button
+New: Excerpt and full content display options for post list.
+Improvement: Extra Post classes
+Improvement: Remove redundant actions
+Improvement: Editor Styles from custom CSS
+Improvement: Remove redundant customizer options
+Improvement: ColorWings update - Exposed Components
+Improvement: Use ColorWings components in Customizer
+Improvement: Arrange Blog settings to sections in customizer
+Fix: Menu toggle bug with id
+Fix: Extra styles length component bug
+Fix: wp_set_script_translations compatibility
+
+Version 2.0.1 / Release: 26-10-2020
+===================
+- Fix: Bug in Extra styles.
+- Fix: Unknown font family is gracefully handled
+
+Version 2.0.0 / Release: 25-10-2020
+===================
+- New: Visual CSS editor under "Extra Styles".
+- New: Unlimited Headers and Footers creator.
+- New: Individual post/page layout selector
+- Improvement: All visual styles are moved to "Extra Styles".
+- Improvement: Bootstrap update to 4.5.3.
+- Improvement: Show logo, title & tagline independently.
+- Improvement: Full-width & full-width container block support
+
+Version 1.2.4 / Release: 24-04-2020
+===================
+- Improvement: Remove Post meta boxes
+- Fix: Fix editor styles
+
+Version 1.2.1 / Release: 11-04-2020
+===================
+- Improvement: Removed options from the themes admin page
+- Improvement: Original (un-minified version) of the minified files are included
+- Improvement: "Disable emoji" feature is removed
+- Improvement: "Meta description" is removed
+- Improvement: All non-translatable text strings are converted into translatable strings.
+- Improvement: Escaping is added to untrusted data wherever appropriate.
+- Fix: Keyboard Navigation
+
+Version 1.2.0 / Release: 23-03-2020
+===================
+- New: Added presets
+- New: Added code customizer options
+- Improvement: Bundled Bootstrap with theme
+
+Version 1.1.0 / Release: 15-03-2020
+===================
+- New: Added Google Fonts
+- New: WooCommerce Support
+- New: Added Customizer Border
+- New: Added Customizer Color
+- New: Added Customizer Length
+- New: Editor Styles
+- New: Logo width and Height
+- Improvement: Better cover template selector
+- Improvement: Styles improvement
+- Improvement: Added more customizer options
+- Improvement: Multiple Customizer options with Hot reload
+- Improvement: Better CSS rendering
+- Improvement: Meta display options
+- Improvement: Better Template loader
+
+Version 1.0.0 / Release: 23-01-2020
+===================
+- Initial release
